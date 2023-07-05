@@ -1,5 +1,9 @@
 ## **An Analysis of the Energy Sector in India**
 
+
+![alt text](energy-sector-india.png)
+
+
 ### - Stakeholders
 
 * Citizens of India.
